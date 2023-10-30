@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 import StudentInfo from "./student-info";
 
@@ -25,6 +26,9 @@ export default function Home() {
         </li>
         <li className="hover:bg-gray-600 rounded-md p-2">
           <Link href="/week6">Week 6</Link>
+        </li>
+        <li className="hover:bg-gray-600 rounded-md p-2">
+          <Link href="/week7">Week 7</Link>
         </li>
       </ul>
     </main>
