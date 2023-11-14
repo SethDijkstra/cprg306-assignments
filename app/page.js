@@ -30,6 +30,9 @@ export default function Home() {
         <li className="hover:bg-gray-600 rounded-md p-2">
           <Link href="/week7">Week 7</Link>
         </li>
+        <li className="hover:bg-gray-600 rounded-md p-2">
+          <Link href="/week8">Week 8</Link>
+        </li>
       </ul>
     </main>
   );
